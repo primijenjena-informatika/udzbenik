@@ -1,0 +1,15 @@
+[[questions]]
+type = "Tracing"
+prompt.program = """
+fn main() {
+  let x = 1;
+  println!("{x}");
+  x += 1;
+  println!("{x}");
+}
+"""
+answer.doesCompile = false
+context = """
+This is a compiler error because line 4 tries to mutate `x` when `x` is not marked as `mut`.
+"""
+id = "9870246b-96bd-45bb-881c-47b0cc5137e7"

@@ -1,0 +1,1 @@
+# Osnove ORM-a Prisma

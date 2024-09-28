@@ -1,0 +1,35 @@
+[book]
+authors = ["OptimusePrime"]
+language = "hr"
+multilingual = false
+src = "src"
+title = "Primijenjena informatika"
+
+[preprocessor.embedify]
+
+#[preprocessor.quiz]
+#cache-answers = true
+
+[preprocessor.alerts]
+
+[preprocessor.yapp]
+
+[output.html]
+additional-js = ["whichblock/whichlang.js"]
+additional-css = ["whichblock/whichlang.css", "devicon.min.css", "codapi.css"]
+
+#[output.pandoc.profile.pdf]
+#output-file = "output.pdf"
+#to = "latex"
+#filters = [
+#    "pandoc-brachygraph"
+#]
+#metadata-file = "pandoc.yaml"
+#
+#[output.pandoc.profile.epub]
+#output-file = "output.epub"
+#to = "epub"
+#filters = [
+#    "pandoc-brachygraph"
+#]
+#metadata-file = "pandoc.yaml"
