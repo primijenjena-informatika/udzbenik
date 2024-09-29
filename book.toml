@@ -7,8 +7,8 @@ title = "Primijenjena informatika"
 
 [preprocessor.embedify]
 
-#[preprocessor.quiz]
-#cache-answers = true
+[preprocessor.quiz]
+cache-answers = true
 
 [preprocessor.alerts]
 

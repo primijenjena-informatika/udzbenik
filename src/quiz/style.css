@@ -280,13 +280,13 @@
 .mdbook-quiz .answer .answer-row > div .correct::before {
   color: var(--mdbook-correct);
   margin-right: 1rem;
-  content: "✓ Točno";
+  content: "✓ Correct";
   font-size: 1.5rem;
 }
 .mdbook-quiz .answer .answer-row > div .incorrect::before {
   color: var(--mdbook-incorrect);
   margin-right: 1rem;
-  content: "✗ Netočno";
+  content: "✗ Incorrect";
   font-size: 1.5rem;
 }
 .mdbook-quiz .answer .context {

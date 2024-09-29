@@ -158,7 +158,7 @@ Slijedite upute i kada ste gotovi, nastavite dalje.
 GitHub će vam poslati kod na unesenu email adresu za verifikaciju računa: otvorite vaš email račun i unesite taj kod.
 
 Sada kada ste to učinili, registracija je dovršena i GitHub će vas odvesti na vaš profil.
-Drugi korak je da otvorite <a href="https://informatika.petagimnazija.hr" target="_blank">našu stranicu za izradu Codespacea</a> i prijavite se s vašim GitHub računom te odobrite pristup našem serveru.
+Drugi korak je da otvorite <a href="https://informatika.petagimnazija.hr" target="_blank">našu stranicu</a>, pritisnete tipku `Codespaces` u gornjem desnom kutu te odobrite pristup našem serveru.
 Nakon toga ćemo mi za vas napraviti Codespace i odvesti vas na njega.
 To je to! Sljedeći put kada ćete htjeti otvoriti vaš Codespace, otvorite tu stranicu i opet se prijavite s GitHubom i dočekati će vas tamo gdje ste stali.
 

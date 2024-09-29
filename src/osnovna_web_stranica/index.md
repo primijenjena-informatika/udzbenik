@@ -11,5 +11,3 @@ Usput ćete naučiti kako koristiti Visual Studio Code i povezane alate koji vam
 Prije nego što se bacimo na kod, prvo ćete se upoznati s vašim programskim okruženjem, VSCode.
 Prvi put kad ste otvorili vaš Codespace, možda ste bili zastrašeni svim tim silnim opcijama i prozorima koji su se otvorili.
 VSCode doista ima mnogo opcija, još ih se više može nadodati pomoću ekstenzija, ali većina njih je zapravo relativno jednostvna.
-
-git
